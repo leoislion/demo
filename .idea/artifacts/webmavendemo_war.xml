@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webmavendemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="webmavendemo.war">
+      <element id="artifact" artifact-name="webmavendemo:war exploded" />
+    </root>
+  </artifact>
+</component>
